@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1073431399684",
+    "firebase_url": "https://comdjisimulatordemo-default-rtdb.firebaseio.com",
+    "project_id": "comdjisimulatordemo",
+    "storage_bucket": "comdjisimulatordemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073431399684:android:bbffd2baedb18ed1be1451",
+        "android_client_info": {
+          "package_name": "com.dji.sdk.sample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwqIeWqjoBeaBQqxg7Zerdv6K7e9vOyk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073431399684:android:8b30fc38fc4f8fa4be1451",
+        "android_client_info": {
+          "package_name": "com.dji.simulatorDemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwqIeWqjoBeaBQqxg7Zerdv6K7e9vOyk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073431399684:android:a2fd312bf88f8d8abe1451",
+        "android_client_info": {
+          "package_name": "com.example.firebaseconnection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwqIeWqjoBeaBQqxg7Zerdv6K7e9vOyk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
